@@ -1,4 +1,4 @@
-⚡ Stock Pulse – Azure Stock Price Tracker
+⚡ Stock Price – Azure Stock Price Tracker
 
 Fetch live stock prices using a serverless Azure Function and store them in Azure Blob Storage.  
 Designed to run entirely on the Azure Free Tier using the Twelve Data API and Python.
